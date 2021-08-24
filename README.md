@@ -14,13 +14,15 @@ It touches on many useful JavaScript features such as:
 
 Download this repo and unzip it.
 
-Then, open Google Chrome and go to `chrome://extensions/` to manage your extensions. Here's we'll start by toggling developer mode on, and then upload the unzipped folder.
+Then, open Google Chrome and go to `chrome://extensions/` to manage your extensions.
+
+Here we'll start by toggling developer mode on.
 
 At the top right of the page, there should be an option to toggle Developer mode on.
 
 ![Developer Mode](developer-mode.png)
 
-After activating Developer mode, we'll load our chrome extension.
+After activating Developer mode, we can load our chrome extension.
 
 ### Loading the Chrome Extension
 
@@ -28,9 +30,11 @@ Find the button at the top left of the page that says "Load Unpacked".
 
 ![Load Unpacked button](load-unpacked.png)
 
-Click this button to upload the unzipped folder. This will load the extension to the browser. At this point, the Chrome extension should be activated and ready to test!
+Click this button to upload the unzipped folder. This will load the extension to the browser.
 
-## Testing the Leads Tracker Chrome Extension
+At this point, the Chrome extension should be activated and ready to test!
+
+### Testing the Leads Tracker Chrome Extension
 
 Feel free to click around and play with this Leads Tracker extension.
 
@@ -39,6 +43,8 @@ It has three main functions:
 1. Save Input - manually save URL
 2. Save Tab - uses Google's `chrome.tabs` API to get current active window and active tab URL
 3. Delete All - deletes are saved data
+
+Thanks for reading!
 
 ## Supporting Scrimba
 
