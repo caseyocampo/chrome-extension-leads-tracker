@@ -42,7 +42,7 @@ It has three main functions:
 
 1. Save Input - manually save URL
 2. Save Tab - uses Google's `chrome.tabs` API to get current active window and active tab URL
-3. Delete All - deletes are saved data
+3. Delete All - deletes all saved data
 
 Thanks for reading!
 
