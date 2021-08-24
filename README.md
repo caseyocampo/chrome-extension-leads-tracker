@@ -48,7 +48,7 @@ Thanks for reading!
 
 ## Supporting Scrimba
 
-**The following text is from the Scrimba project file.s**
+**The following text is from the Scrimba project files.**
 
 Since 2017, we have created over 20 free courses on Scrimba, and we're going to
 continue launching free courses. But to pay our bills, we have to charge once
