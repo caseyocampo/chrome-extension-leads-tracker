@@ -1,4 +1,4 @@
-# Google Chrome Extension Mini-Project
+# Scrimba's Google Chrome Extension Mini-Project
 
 This mini-project was built during Scrimba's [Learn JavaScript for free course](https://scrimba.com/learn/learnjavascript).
 
