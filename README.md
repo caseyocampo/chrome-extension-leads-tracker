@@ -14,13 +14,15 @@ It touches on many useful JavaScript features such as:
 
 Download this repo and unzip it.
 
-Then, open Google Chrome and go to [chrome://extensions/](chrome://extensions/) to manage your extensions. We'll start by toggling developer mode on and then upload the unzipped folder here.
+Then, open Google Chrome and go to `chrome://extensions/` to manage your extensions. Here's we'll start by toggling developer mode on, and then upload the unzipped folder.
 
 At the top right of the page, there should be an option to toggle Developer mode on.
 
 ![Developer Mode](developer-mode.png)
 
 After activating Developer mode, we'll load our chrome extension.
+
+### Loading the Chrome Extension
 
 Find the button at the top left of the page that says "Load Unpacked".
 
