@@ -1,16 +1,28 @@
-# title(){return this.options.title||this.options.name}
+# Google Chrome Extension Mini-Project
+
+This mini-project was built during Scrimba's [Learn JavaScript for free course](https://scrimba.com/learn/learnjavascript).
+
+It touches on many useful JavaScript features such as:
+
+- Event Listenners
+- Getting and Setting localStorage
+- Template Strings
+- Array Methods
+- So much more (see link above to check it out)
 
 ## Supporting Scrimba
+
+**The following text is from the Scrimba project files**
 
 Since 2017, we have created over 20 free courses on Scrimba, and we're going to
 continue launching free courses. But to pay our bills, we have to charge once
 in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+one of our paid courses
 
 - [Become a professional React developer](https://scrimba.com/course/greact)
 - [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
 - [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
 
-	It would also mean the world to us if you share the courses.  
+  It would also mean the world to us if you share the courses.
 
 Happy Coding!
